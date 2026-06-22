@@ -52,11 +52,7 @@ Each task is documented using a consistent format:
 ```text
 task-01/
 ├── README.md
-├── screenshots/
-├── diagrams/
-├── files/
-├── scripts/
-└── notes/
+└── screenshots/
 ```
 ---
 ## Documentation Standards
