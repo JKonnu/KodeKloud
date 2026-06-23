@@ -33,6 +33,7 @@ kodekloud-learning/
 ## Learning Path Structure
 ```text
 aws-cloud/
+├── README.md/
 ├── level-1/
 ├── level-2/
 ├── level-3/
@@ -41,16 +42,34 @@ aws-cloud/
 OR
 
 100-days-of-devops/
+├── README.md/
 ├── day-1/
 ├── day-2/
 ├── day-3/
 └── day-4/
 ```
 ---
-## Task Structure
+## Level Structure
 Each task is documented using a consistent format:
 ```text
-task-01/
+level-1/
+├── README.md
+├── task-1
+├── task-2
+├── task-3
+└── task-4
+```
+---
+## Task Structure
+Each task or day is documented using a consistent format:
+```text
+task-1/
+├── README.md
+└── screenshots/
+
+or
+
+day-1/
 ├── README.md
 └── screenshots/
 ```
