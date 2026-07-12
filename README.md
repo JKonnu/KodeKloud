@@ -84,15 +84,18 @@ Each task includes:
 * References
 ---
 ## Current Progress
-| Technology | Status |
-| ---------- | -------------- |
-| AWS Cloud | ⏳ Planned |
-| 100 Days of Devops | 🚧 In Progress |
-| 100 Days of Cloud | 🚧 In Progress |
-| Terraform | ⏳ Planned |
-| Kubernetes | ⏳ Planned |
-| Jenkins | ⏳ Planned |
-| Git | ⏳ Planned |
+| Technology | Status | Link |
+| ---------- | -------------- | ---------- |
+| 100 Days of Cloud | 🚧 In Progress | [100 Days of Cloud](./100-days-of-cloud/README.md) |
+| 100 Days of Devops | 🚧 In Progress | [100 Days of Devops](./100-days-of-devops/README.md) |
+| AWS Cloud | ⏳ Planned | [AWS Cloud](./aws-cloud/README.md) |
+| Azure Cloud | ⏳ Planned | [Azure Cloud](./azure-cloud/README.md) |
+| Docker | ⏳ Planned | [Docker](./docker/README.md) |
+| Git | ⏳ Planned | [Git](./git/README.md) |
+| Jenkins | ⏳ Planned | [Jenkins](./jenkins/README.md) |
+| Kubernetes | ⏳ Planned | [Kubernetes](./kubernetes/README.md) |
+| Linux | ⏳ Planned | [Linux](./linux/README.md) |
+| Terraform | ⏳ Planned | [Terraform](./terraform/README.md) |
 ---
 ## Goals
 * Build strong cloud engineering fundamentals
