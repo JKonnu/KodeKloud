@@ -9,25 +9,31 @@ Each technology contains multiple learning levels and tasks that include documen
 ---
 ## Learning Paths
 | Technology | Description |
-| ---------- | ------------------------------------------------------------------------- |
-| AWS Cloud | Cloud infrastructure, networking, security, storage, and compute services |
+| ------------- | ------------------------------------------------------------------------------------------------------ |
+| 100-Days-of-Cloud | Practical cloud learning path focused on AWS & Azure services, cloud architecture, networking, security, automation, and operations |
 | 100-Days-of-Devops | Hands-on DevOps learning journey covering Linux, Git, CI/CD, containers, automation, monitoring, and cloud practices |
-| 100-Days-of-Cloud | Practical cloud learning path focused on AWS services, cloud architecture, networking, security, automation, and operations |
-| Terraform | Infrastructure as Code (IaC) and cloud automation |
-| Kubernetes | Container orchestration and cloud-native workloads |
-| Jenkins | CI/CD pipelines and automation |
-| Git | Version control and collaboration workflows |
+| AWS Cloud | AWS cloud infrastructure, networking, security, storage, and compute services |
+| Azure Cloud | Microsoft cloud platform covering compute, networking, identity, storage, security, and cloud services |
+| Docker | Containerization, image creation, container networking, volumes, and application deployment |
+| Git | Version control, branching strategies, collaboration, and source code management |
+| Jenkins | CI/CD pipelines, build automation, testing, and deployment workflows |
+| Kubernetes | Container orchestration, scaling, networking, storage, and cloud-native workloads |
+| Linux | Operating system administration, shell scripting, networking, system services, security, and troubleshooting |
+| Terraform | Infrastructure as Code (IaC), multi-cloud provisioning, and infrastructure automation |
 ---
 ## Repository Structure
 ```text
 kodekloud-learning/
+├── 100-days-of-cloud/
+├── 100-days-of-devops/
 ├── aws-cloud/
-├── 100-days-of-devops
-├── 100-days-of-cloud
-├── terraform/
-├── kubernetes/
+├── azure-cloud/
+├── docker/
+├── git/
 ├── jenkins/
-└── git/
+├── kubernetes/
+├── linux/
+└── terraform/
 ```
 ---
 ## Learning Path Structure
