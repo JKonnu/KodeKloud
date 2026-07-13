@@ -51,7 +51,7 @@ Disable direct root SSH login on all the application servers.
 
 ## Challenges Encountered
 
-Both the initial `sshd_config` edit and the `passwd -l root` fallback failed the lab's validation. The root cause was that `PermitRootLogin no` had been left commented out in `sshd_config`, so the original edit never actually took effect — uncommenting the line was the fix that finally worked.
+Both the initial `sshd_config` edit and the `passwd -l root` fallback failed the lab's validation. The root cause was that `PermitRootLogin no` had been left commented out in `sshd_config`, so the original edit never actually took effect, uncommenting the line was the fix that finally worked.
 
 ## Lessons Learned
 
