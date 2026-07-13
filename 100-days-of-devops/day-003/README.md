@@ -57,6 +57,6 @@ Both the initial `sshd_config` edit and the `passwd -l root` fallback failed the
 
 Editing a config value in `sshd_config` has no effect if the line is still commented out. The `#` has to be removed, not just the value changed. `passwd -l` locks the password but doesn't disable key-based root login, so it isn't a substitute for `PermitRootLogin no`.
 
-## References
+## Reference(s)
 
 - [sshd_config(5) man page](https://man7.org/linux/man-pages/man5/sshd_config.5.html)
