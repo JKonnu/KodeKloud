@@ -37,7 +37,7 @@ There's an instance in the account without termination protection. Enable termin
 
 ## Challenges Encountered
 
-NNo significant challenges faced. The instance was stopped out of caution before making the change, though this turned out not to be strictly necessary.
+No significant challenges faced. The instance was stopped out of caution before making the change, though this turned out not to be strictly necessary.
 
 ## Lessons Learned
 
