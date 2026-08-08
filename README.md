@@ -1,6 +1,6 @@
 <img src="./images/KodeKloud.png" width ="1000">
 
-# KodeKloud Learning Repository
+# [KodeKloud](https://kodekloud.com) Learning Repository
 
 ## Overview
 This repository documents my hands-on learning journey through KodeKloud courses, labs, challenges, and projects.
