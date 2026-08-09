@@ -1,1 +1,110 @@
+# AWS Cloud - Learning Path
+
+## Progress
+
+| Level | Status | Link |
+|-------|--------|------|
+| Level 1 | ⏳ Not Started | [Level 1](./level-1/README.md) |
+| Level 2 | ⏳ Not Started | [Level 2](./level-2/README.md) |
+| Level 3 | ⏳ Not Started | [Level 3](./level-3/README.md) |
+| Level 4 | ⏳ Not Started | [Level 4](./level-4/README.md) |
+
+## Topics Covered
+
+### Level 1
+
+- Create Key Pair
+- Create Security Group
+- Create GP3 Volume
+- Create Subnet
+- Allocate Elastic IP
+- Launch EC2 Instance
+- Change EC2 Instance Type
+- Enable Stop Protection for EC2 Instance
+- Enable Termination Protection for EC2 Instance
+- Attach Elastic IP to EC2 Instance
+- Attach Elastic Network Interface to EC2 Instance
+- Attach Volume to EC2 Instance
+- Create AMI from EC2 Instance
+- Terminate EC2 Instance
+- Create Volume Snapshot
+- Create IAM User
+- Create IAM Group
+- Create Read-Only IAM Policy for EC2 Console Access
+- Attach IAM Policy to IAM User
+- Create IAM Role for EC2 with Policy Attachment
+- Delete IAM Group
+- Delete IAM Role
+- Create Private S3 Bucket
+- Create Public S3 Bucket
+- Enable Versioning for S3 Bucket
+- Transfer Data to Existing S3 Bucket
+- Copy and Delete S3 Bucket Data
+- Create Publicly Accessible RDS Instance
+- Create Snapshot of RDS Instance
+- Enable Delete Protection for RDS Instance
+- Upgrade RDS MySQL Engine Version via AWS Console
+- Delete RDS Instance
+- Create VPC
+- Define VPC CIDR
+- Implement VPC IPv6
+- Delete VPC
+- Create Private S3 Bucket via AWS CLI
+- Launch EC2 Instance via AWS CLI
+- Modify EC2 Instance Type via AWS CLI
+- Delete EC2 Instance via AWS CLI
+
+---
+
+### Level 2
+
+- Setting Up an EC2 Instance with an Elastic IP for Application Hosting
+- Expanding EC2 Instance Storage for Development Needs
+- Creating and Launching EC2 Instances from Custom AMIs
+- Configuring Secure SSH Access to an EC2 Instance
+- Setting Up an Application Load Balancer for an EC2 Instance
+- Setting Up an EC2 Instance and CloudWatch Alarm
+- Configuring an EC2 Instance as a Web Server with Nginx
+- Data Migration Between S3 Buckets Using AWS CLI
+- Configuring a Private RDS Instance for Application Development
+- Enabling Public Access to an RDS Instance
+- Snapshot and Restoration of an RDS Instance
+- Configuring a Public VPC with an EC2 Instance for Internet Access
+- Establishing Secure Communication Between Public and Private VPCs via VPC Peering
+- Setting Up a Private VPC with an Isolated EC2 Instance
+- Create a Lambda Function
+- Create a Lambda Function Using CLI
+- Troubleshooting Internet Accessibility for an EC2-Hosted Application
+- Troubleshooting Connectivity Issues for Package Installation on EC2
+- Creating a Private ECR Repository
+- Configure NAT Gateway for Internet Access in a Private VPC
+
+---
+
+### Level 3
+
+- Deploying and Managing Applications on AWS
+- Load Balancing EC2 Instances with Application Load Balancer
+- Managing EC2 Access with S3 Role-based Permissions
+- Deploying Containerized Applications with Amazon ECS
+- Automating Infrastructure Deployment with AWS CloudFormation
+- Hosting a Static Website on AWS S3
+- Enable Internet Access for Private EC2 using NAT Instance
+- Securing Data with AWS KMS
+- Building and Managing NoSQL Databases with AWS DynamoDB
+- Scaling and Managing Kubernetes Clusters with Amazon EKS
+
+---
+
+### Level 4
+
+- Implementing Auto Scaling for High Availability in AWS
+- CI/CD Automation Using AWS CodePipeline
+- Event-Driven Processing with Amazon S3 and Lambda
+- Integrating AWS SQS and SNS for Reliable Messaging
+- Centralized Audit Logging with VPC Peering
+- Deploying Containerized Applications with AWS ECS
+- Building and Managing APIs with AWS API Gateway
+
+---
 
